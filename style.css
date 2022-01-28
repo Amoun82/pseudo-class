@@ -1,0 +1,18 @@
+p:first-child{
+    color: orange;
+    text-decoration: underline;
+}
+p:first-of-type{
+    color: blue;
+}
+
+
+p:last-child{
+    color: green;
+    text-decoration: underline;
+}
+
+p:last-of-type{
+    color: purple;
+}
+
